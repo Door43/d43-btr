@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[btr:home|Door43 (btr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-btr|d43-btr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-btr/archive/master.zip|d43-btr.zip]]
+
+**Recent Changes**
+{{changes>ns = btr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/btr|Ethnologue data]]
+
